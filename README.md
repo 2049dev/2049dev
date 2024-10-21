@@ -1,7 +1,6 @@
 - Yo, 2049 here
 - luau scripter and vfx artist in roblox 
 - currently trying to master lua
-- discord:![image](https://github.com/2049dev/2049dev/assets/146211596/5ef85b91-3b9e-4366-8d2d-22ffdde5c950)
 
 
 <!---
